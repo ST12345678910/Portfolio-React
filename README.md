@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
- Using a React SPA framework, as well as the appropriate serviceworkers, this application is quick and works in offline mode.
+ Responive portfolio utilizing an SPA framework, that allows for easy modification and updating of the content.
 
 ## Table of Contents
 - [Installation](#installation)
