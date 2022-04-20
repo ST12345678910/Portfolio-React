@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
- Responive portfolio utilizing an SPA framework, that allows for easy modification and updating of the content.
+Responsive portfolio utilizing an SPA framework, that allows for easy modification and updating of the content.
 
 ## Table of Contents
 - [Installation](#installation)
